@@ -1,0 +1,14 @@
+1718352084760	Delete element
+1718353465256	Rename package 'com.smhrd.board.model'
+1718353735419	Rename package 'com.smhrd.board.mapper'
+1718353751842	Rename package 'com.smhrd.board.service'
+1718353762503	Rename package 'com.smhrd.board'
+1718353773659	Rename package 'com.smhrd.board.converter'
+1718353831335	Rename compilation unit 'BoardService.java'
+1718353855864	Rename compilation unit 'BoardMapper.java'
+1718353961090	Rename resource 'BoardMapper.xml'
+1718356440369	Rename resource 'boardlist.jsp'
+1718356666709	Delete element
+1718357666191	Rename resource 'recyclelist.jsp'
+1718357804468	Rename resource 'map.jsp'
+1718357818275	Rename resource 'index.jsp'

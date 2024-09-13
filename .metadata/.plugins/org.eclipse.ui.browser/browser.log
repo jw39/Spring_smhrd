@@ -1,0 +1,222 @@
+
+6월 10, 2024 09:43:49.930 NEW SESSION
+6월 10, 2024 09:43:49.930 Created TensorFlow Lite XNNPACK delegate for CPU.
+6월 10, 2024 10:39:16.209 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#56 is a dynamic-sized tensor).
+6월 10, 2024 14:02:15.770 [19300:18292:0610/140215.770:ERROR:device_event_log_impl.cc(195)] [14:02:15.770] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+6월 10, 2024 14:04:35.254 [19300:18292:0610/140435.253:ERROR:interface_endpoint_client.cc(722)] Message 5 rejected by interface blink.mojom.WidgetHost
+6월 10, 2024 16:46:32.364 [19300:18292:0610/164632.364:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+6월 14, 2024 22:22:50.698 NEW SESSION
+6월 14, 2024 22:22:50.698 Created TensorFlow Lite XNNPACK delegate for CPU.
+6월 14, 2024 22:26:19.553 Created TensorFlow Lite XNNPACK delegate for CPU.
+6월 14, 2024 22:28:53.308 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+6월 17, 2024 09:11:08.525 NEW SESSION
+6월 17, 2024 09:11:08.525 Created TensorFlow Lite XNNPACK delegate for CPU.
+6월 17, 2024 09:11:29.418 [3804:4436:0617/091129.418:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+6월 17, 2024 09:12:17.509 [3804:4436:0617/091217.509:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+6월 17, 2024 09:13:33.157 [3804:4436:0617/091333.156:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+6월 17, 2024 09:15:29.238 [3804:4436:0617/091529.238:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+6월 17, 2024 09:29:20.758 [3804:4984:0617/092920.758:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+6월 17, 2024 09:38:55.528 [3804:4984:0617/093855.528:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+6월 17, 2024 19:45:26.819 NEW SESSION
+6월 17, 2024 19:45:26.819 Created TensorFlow Lite XNNPACK delegate for CPU.
+6월 17, 2024 20:23:44.974 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+6월 18, 2024 09:18:35.240 NEW SESSION
+6월 18, 2024 09:18:35.240 Created TensorFlow Lite XNNPACK delegate for CPU.
+6월 18, 2024 11:35:49.553 [11312:11988:0618/113549.552:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+6월 18, 2024 15:08:13.971 [11312:11988:0618/150813.970:ERROR:CONSOLE(1)] "Request Network.loadNetworkResource failed. {"code":-32602,"message":"Unsupported URL scheme"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+6월 18, 2024 15:08:14.209 [11312:11988:0618/150814.209:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+6월 18, 2024 16:02:59.453 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#56 is a dynamic-sized tensor).
+6월 18, 2024 16:46:12.272 [11312:11988:0618/164612.272:ERROR:CONSOLE(1)] "Request Network.loadNetworkResource failed. {"code":-32602,"message":"Frame not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+
+6월 18, 2024 18:01:10.504 NEW SESSION
+6월 18, 2024 18:01:10.504 [3552:1276:0618/180110.503:ERROR:backend_impl.cc(984)] Critical error found -8
+6월 18, 2024 18:01:12.403 [3552:4060:0618/180112.403:ERROR:persistent_memory_allocator.cc(903)] Corruption detected in shared-memory segment.
+6월 18, 2024 18:01:12.645 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+6월 20, 2024 09:36:08.977 NEW SESSION
+6월 20, 2024 09:36:08.978 Created TensorFlow Lite XNNPACK delegate for CPU.
+6월 20, 2024 14:42:25.209 [12244:7080:0620/144225.209:ERROR:device_event_log_impl.cc(196)] [14:42:25.208] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+
+6월 23, 2024 17:49:50.34 NEW SESSION
+6월 23, 2024 17:49:50.34 Created TensorFlow Lite XNNPACK delegate for CPU.
+6월 23, 2024 17:51:40.527 [8436:13128:0623/175140.527:ERROR:device_event_log_impl.cc(196)] [17:51:40.527] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+6월 23, 2024 17:53:41.43 Created TensorFlow Lite XNNPACK delegate for CPU.
+6월 23, 2024 18:09:08.219 [5196:13836:0623/180908.218:ERROR:device_event_log_impl.cc(196)] [18:09:08.219] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+6월 23, 2024 18:09:57.835 [5196:14308:0623/180957.835:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+6월 23, 2024 18:09:57.839 [5196:14308:0623/180957.839:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 18:10:00.368 [5196:14308:0623/181000.368:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 18:10:06.214 [5196:14308:0623/181006.213:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 18:10:09.726 [5196:14308:0623/181009.726:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 18:10:27.507 [5196:14308:0623/181027.506:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 18:11:15.607 [5196:14308:0623/181115.607:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 18:12:08.634 [5196:13836:0623/181208.634:ERROR:device_event_log_impl.cc(196)] [18:12:08.633] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+6월 23, 2024 18:12:46.354 [5196:14308:0623/181246.353:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 18:16:06.854 [5196:14308:0623/181606.853:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 18:21:38.583 [5196:14308:0623/182138.582:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 18:31:38.595 [5196:14308:0623/183138.594:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 18:41:38.603 [5196:14308:0623/184138.602:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 18:51:38.606 [5196:14308:0623/185138.606:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 19:01:38.610 [5196:14308:0623/190138.609:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 19:11:38.625 [5196:14308:0623/191138.624:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 19:21:38.642 [5196:14308:0623/192138.641:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 19:31:38.649 [5196:14308:0623/193138.648:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 19:41:38.665 [5196:14308:0623/194138.665:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 19:51:38.673 [5196:14308:0623/195138.672:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 20:01:38.674 [5196:14308:0623/200138.673:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 20:11:38.689 [5196:14308:0623/201138.688:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 20:21:38.692 [5196:14308:0623/202138.691:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 20:31:38.708 [5196:14308:0623/203138.708:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 20:41:38.721 [5196:14308:0623/204138.720:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 20:51:38.734 [5196:14308:0623/205138.733:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 21:01:38.744 [5196:14308:0623/210138.743:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 21:04:07.749 [5196:10332:0623/210407.748:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 23, 2024 21:05:22.767 [5196:2932:0623/210522.766:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 23, 2024 21:07:15.273 [5196:10332:0623/210715.273:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 23, 2024 21:10:04.32 [5196:4660:0623/211004.032:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 23, 2024 21:11:38.756 [5196:14308:0623/211138.755:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 21:17:05.915 [5196:6548:0623/211705.915:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 23, 2024 21:21:38.766 [5196:14308:0623/212138.765:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 21:27:05.924 [5196:14296:0623/212705.924:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 23, 2024 21:31:38.778 [5196:14308:0623/213138.777:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 21:37:05.938 [5196:8464:0623/213705.937:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 23, 2024 21:41:38.791 [5196:14308:0623/214138.790:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 21:47:05.953 [5196:10332:0623/214705.953:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 23, 2024 21:51:38.799 [5196:14308:0623/215138.798:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 21:57:05.967 [5196:14256:0623/215705.966:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 23, 2024 22:01:38.804 [5196:14308:0623/220138.804:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 22:07:05.972 [5196:1248:0623/220705.972:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 23, 2024 22:11:38.808 [5196:14308:0623/221138.807:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 22:17:05.988 [5196:9088:0623/221705.987:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 23, 2024 22:21:38.812 [5196:14308:0623/222138.811:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 22:27:06.07 [5196:2304:0623/222706.006:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 23, 2024 22:31:38.825 [5196:14308:0623/223138.825:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 22:37:06.21 [5196:10332:0623/223706.020:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 23, 2024 22:41:38.837 [5196:14308:0623/224138.836:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 22:47:06.35 [5196:4660:0623/224706.035:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 23, 2024 22:51:38.850 [5196:14308:0623/225138.849:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 22:57:06.53 [5196:8712:0623/225706.051:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 23, 2024 23:01:38.866 [5196:14308:0623/230138.865:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 23:07:06.61 [5196:2304:0623/230706.061:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 23, 2024 23:11:38.882 [5196:14308:0623/231138.881:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 23:17:06.73 [5196:6548:0623/231706.072:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 23, 2024 23:21:38.884 [5196:14308:0623/232138.883:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 23:27:06.87 [5196:2932:0623/232706.086:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 23, 2024 23:31:38.893 [5196:14308:0623/233138.892:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 23:37:06.91 [5196:2304:0623/233706.091:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 23, 2024 23:41:38.898 [5196:14308:0623/234138.897:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 23:47:06.104 [5196:14256:0623/234706.103:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 23, 2024 23:51:38.909 [5196:14308:0623/235138.908:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 23, 2024 23:57:06.114 [5196:2932:0623/235706.114:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 24:01:38.925 [5196:14308:0624/000138.924:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 24:07:06.130 [5196:4660:0624/000706.129:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 24:11:38.931 [5196:14308:0624/001138.931:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 24:17:06.138 [5196:8464:0624/001706.137:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 24:21:38.943 [5196:14308:0624/002138.942:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 24:27:06.155 [5196:8464:0624/002706.154:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 24:31:38.953 [5196:14308:0624/003138.953:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 24:37:06.171 [5196:8712:0624/003706.170:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 24:41:38.970 [5196:14308:0624/004138.969:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 24:47:06.188 [5196:6548:0624/004706.188:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 24:51:38.974 [5196:14308:0624/005138.973:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 24:57:06.194 [5196:9088:0624/005706.194:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 01:01:38.984 [5196:14308:0624/010138.983:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 01:07:06.204 [5196:2304:0624/010706.203:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 01:11:38.995 [5196:14308:0624/011138.994:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 01:17:06.221 [5196:8464:0624/011706.220:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 01:21:39.09 [5196:14308:0624/012139.008:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 01:27:06.231 [5196:14256:0624/012706.231:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 01:31:39.12 [5196:14308:0624/013139.011:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 01:37:06.245 [5196:1248:0624/013706.244:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 01:41:39.24 [5196:14308:0624/014139.023:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 01:47:06.264 [5196:4660:0624/014706.263:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 01:51:39.31 [5196:14308:0624/015139.030:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 01:57:06.268 [5196:11552:0624/015706.268:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 02:01:39.39 [5196:14308:0624/020139.038:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 02:07:06.278 [5196:8712:0624/020706.277:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 02:11:39.43 [5196:14308:0624/021139.042:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 02:17:06.286 [5196:9088:0624/021706.285:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 02:21:39.56 [5196:14308:0624/022139.055:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 02:27:06.303 [5196:8464:0624/022706.303:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 02:31:39.60 [5196:14308:0624/023139.059:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 02:37:06.321 [5196:11552:0624/023706.320:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 02:41:39.76 [5196:14308:0624/024139.075:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 02:47:06.338 [5196:13412:0624/024706.337:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 02:51:39.79 [5196:14308:0624/025139.078:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 02:57:06.348 [5196:4660:0624/025706.347:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 03:01:39.83 [5196:14308:0624/030139.082:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 03:07:06.358 [5196:10036:0624/030706.358:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 03:11:39.96 [5196:14308:0624/031139.096:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 03:17:06.373 [5196:9088:0624/031706.372:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 03:21:39.106 [5196:14308:0624/032139.105:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 03:27:06.390 [5196:2376:0624/032706.389:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 03:31:39.117 [5196:14308:0624/033139.116:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 03:37:06.397 [5196:8712:0624/033706.396:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 03:41:39.121 [5196:14308:0624/034139.120:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 03:47:06.402 [5196:8464:0624/034706.401:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 03:51:39.126 [5196:14308:0624/035139.125:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 03:57:06.411 [5196:800:0624/035706.410:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 04:01:39.142 [5196:14308:0624/040139.141:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 04:07:06.424 [5196:8712:0624/040706.423:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 04:11:39.151 [5196:14308:0624/041139.150:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 04:17:06.430 [5196:2932:0624/041706.430:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 04:21:39.158 [5196:14308:0624/042139.157:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 04:27:06.451 [5196:11552:0624/042706.450:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 04:31:39.170 [5196:14308:0624/043139.169:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 04:37:06.470 [5196:10332:0624/043706.469:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 04:41:39.184 [5196:14308:0624/044139.183:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 04:47:06.477 [5196:4660:0624/044706.476:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 04:51:39.202 [5196:14308:0624/045139.201:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 04:57:06.485 [5196:1248:0624/045706.484:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 05:01:39.214 [5196:14308:0624/050139.213:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 05:07:06.497 [5196:14256:0624/050706.496:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 05:11:39.229 [5196:14308:0624/051139.228:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 05:17:06.504 [5196:8464:0624/051706.503:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 05:21:39.238 [5196:14308:0624/052139.237:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 05:27:06.506 [5196:8464:0624/052706.506:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 05:31:39.242 [5196:14308:0624/053139.241:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 05:37:06.521 [5196:10332:0624/053706.520:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 05:41:39.256 [5196:14308:0624/054139.255:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 05:47:06.530 [5196:10036:0624/054706.529:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 05:51:39.270 [5196:14308:0624/055139.269:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 05:57:06.537 [5196:800:0624/055706.536:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 06:01:39.287 [5196:14308:0624/060139.286:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 06:07:06.553 [5196:11552:0624/060706.553:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 06:11:39.302 [5196:14308:0624/061139.301:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 06:17:06.562 [5196:2932:0624/061706.562:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 06:21:39.306 [5196:14308:0624/062139.305:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 06:27:06.573 [5196:9088:0624/062706.572:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 06:31:39.317 [5196:14308:0624/063139.316:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 06:37:06.579 [5196:14256:0624/063706.579:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 06:41:39.320 [5196:14308:0624/064139.319:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 06:47:06.595 [5196:10332:0624/064706.594:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 06:51:39.331 [5196:14308:0624/065139.330:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 06:57:06.608 [5196:2304:0624/065706.607:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 07:01:39.339 [5196:14308:0624/070139.338:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 07:07:06.625 [5196:2304:0624/070706.625:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 07:11:39.355 [5196:14308:0624/071139.354:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 07:17:06.639 [5196:2376:0624/071706.638:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 07:21:39.368 [5196:14308:0624/072139.367:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 07:27:06.651 [5196:2304:0624/072706.650:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 07:31:39.372 [5196:14308:0624/073139.371:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 07:37:06.668 [5196:2932:0624/073706.667:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 07:41:39.378 [5196:14308:0624/074139.377:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 07:47:06.677 [5196:4660:0624/074706.677:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 07:51:39.394 [5196:14308:0624/075139.393:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 07:57:06.693 [5196:10332:0624/075706.692:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 08:01:39.397 [5196:14308:0624/080139.396:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 08:07:06.707 [5196:13412:0624/080706.706:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 08:11:39.405 [5196:14308:0624/081139.404:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 08:17:06.722 [5196:9088:0624/081706.722:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 08:21:39.416 [5196:14308:0624/082139.415:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 08:27:06.739 [5196:2304:0624/082706.738:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 08:31:39.421 [5196:14308:0624/083139.420:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 08:37:06.756 [5196:2376:0624/083706.756:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 08:41:39.430 [5196:14308:0624/084139.429:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 08:47:06.765 [5196:11552:0624/084706.764:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 08:51:39.438 [5196:14308:0624/085139.437:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+6월 24, 2024 08:57:06.778 [5196:11552:0624/085706.778:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+6월 24, 2024 09:01:39.450 [5196:14308:0624/090139.449:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
